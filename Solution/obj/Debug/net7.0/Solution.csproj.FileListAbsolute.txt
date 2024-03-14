@@ -1,0 +1,15 @@
+E:\C_Sharp\Solve-C-Sharp\Solution\bin\Debug\net7.0\Solution.exe
+E:\C_Sharp\Solve-C-Sharp\Solution\bin\Debug\net7.0\Solution.deps.json
+E:\C_Sharp\Solve-C-Sharp\Solution\bin\Debug\net7.0\Solution.runtimeconfig.json
+E:\C_Sharp\Solve-C-Sharp\Solution\bin\Debug\net7.0\Solution.dll
+E:\C_Sharp\Solve-C-Sharp\Solution\bin\Debug\net7.0\Solution.pdb
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.AssemblyInfoInputs.cache
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.AssemblyInfo.cs
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.sourcelink.json
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.dll
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\refint\Solution.dll
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.pdb
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\Solution.genruntimeconfig.cache
+E:\C_Sharp\Solve-C-Sharp\Solution\obj\Debug\net7.0\ref\Solution.dll
